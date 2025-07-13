@@ -99,7 +99,9 @@
   :test:
     - test/
   :source:
-    - src/**
+    - src/
+  :include:
+    - src/ # In simple projects, this entry often duplicates :source
   :libraries: []
 
 # You can even specify specific files to add or remove from your test

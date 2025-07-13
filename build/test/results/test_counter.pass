@@ -1,0 +1,19 @@
+---
+:source:
+  :file: test/test_counter.c
+  :dirname: test
+  :basename: test_counter.c
+:successes:
+- :test: test_reset_counter_should_set_value_to_0
+  :line: 18
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 1
+  :passed: 1
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 1.1756429000015487
